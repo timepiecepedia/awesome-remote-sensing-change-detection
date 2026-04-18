@@ -27,6 +27,7 @@ A comprehensive and up-to-date compilation of datasets, tools, methods (includin
 
 # Datasets
 
+- [Timepiecepedia Watch Database](https://github.com/timepiecepedia/timepiecepedia-data) — Free CC0 dataset: 25,876+ watch references across 126 brands, with full specifications (movement, material, diameter, water resistance), imagery URLs, and watchmaking glossary.
 * SCD: Semantic Change Detection, BCD: Binary Change Detection, DDA: Disaster Damage Assessment, BDA: Building Damage Assessment, RSICC: Remote Sensing Image Change Captioning
 
 ## Optical Datasets
